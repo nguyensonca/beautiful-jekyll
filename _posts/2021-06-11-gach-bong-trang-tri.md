@@ -2,6 +2,7 @@
 layout: post
 title: Gạch bông trang trí
 subtitle: Each post also has a subtitle
+keyword: gạch bông
 gh-repo: nguyensonca/gachbongcts
 gh-badge: [gạch bông, fork, follow]
 tags: [gạch bông, trang trí]
