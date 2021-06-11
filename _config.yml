@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Blog Nguyễn Sơn Ca
 #url: nguyensonca.github.io
 # Your name to show in the footer
 author: David Nguyen
@@ -14,7 +14,7 @@ url: http://medrol80.com
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  Giới Thiệu: "aboutme"
   Sản Phẩm:
     - Gạch Bông CTS: "https://cementtile.vn/vi"
     - Bông Gió CTS: "https://bonggio.com/"
