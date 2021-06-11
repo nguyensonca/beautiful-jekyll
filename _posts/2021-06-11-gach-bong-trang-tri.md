@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: Gạch bông trang trí
-subtitle: Each post also has a subtitle
+subtitle: gạch bông trang trí CTS
 keyword: gạch bông
 gh-repo: nguyensonca/gachbongcts
 gh-badge: [gạch bông, fork, follow]
