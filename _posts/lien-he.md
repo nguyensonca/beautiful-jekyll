@@ -1,7 +1,11 @@
 ﻿---
 layout: post
-title: Liên hệ David !
-subtitle: Why you'd want to go on a date with me
+title: Liên hệ David
+subtitle: Each post also has a subtitle
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [test]
+comments: true
 ---
 
 My name is David Nguyễn. I have the following qualities:
