@@ -1,7 +1,7 @@
 ﻿---
 layout: post
-title: Gạch bông trang trí nhà bếp
-subtitle: gạch bông trang trí nhà bếp thương hiệu CTS
+title: Gạch bông trang trí nhà tắm
+subtitle: gạch bông trang trí nhà tắm thương hiệu CTS
 keywords: gạch bông
 gh-repo: nguyensonca/gachbongcts
 gh-badge: [gạch bông, fork, follow]
