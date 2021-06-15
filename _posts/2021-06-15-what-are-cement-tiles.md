@@ -12,9 +12,9 @@ comments: true
 
 
 # What are cement tiles? How to make cement tile in CTS factory?
-- Cement tiles are made using a process developed in Southern France in the second half of the 19th century. Today, however, Morocco, Vietnam, Cuba, Turkey…are the major production center. Cement tiles are made by hand with the help of metallic molds and a hydraulic press. The raw materials are Portland cement, sand, marble powder, water and color pigments. Contrary to ceramic tiles, cement tiles are not exposed to firing but gain their strength from curing. The pigment layer is about 3-4 mm which gives the tiles a long lifespan.
+- **Cement tiles** are made using a process developed in Southern France in the second half of the 19th century. Today, however, Morocco, Vietnam, Cuba, Turkey…are the major production center. Cement tiles are made by hand with the help of metallic molds and a hydraulic press. The raw materials are Portland cement, sand, marble powder, water and color pigments. Contrary to ceramic tiles, cement tiles are not exposed to firing but gain their strength from curing. The pigment layer is about 3-4 mm which gives the tiles a long lifespan.
 
-- Each cement tile is individually made and variations in thickness, size and color as well as imperfections like irregular edges and corners as well as pattern contours being partly blurred are inherent to the manufacturing process. These characteristics add to the tiles’ natural appeal and do not compromise performance.
+- Each **cement tile** is individually made and variations in thickness, size and color as well as imperfections like irregular edges and corners as well as pattern contours being partly blurred are inherent to the manufacturing process. These characteristics add to the tiles’ natural appeal and do not compromise performance.
 
 - Pigments and salt present in the cement will deposit onto the surface of the tile. This produces a varied (sometimes almost blotched), chalky look similar to limewash. The variations are particularly evident in solid color tiles and tiles with a not so busy pattern. A large part of the variations and salts present on newly installed tiles will disappear over time and with cleaning but not entirely – this is perfectly normal.
 
@@ -22,10 +22,10 @@ comments: true
 
 ### In summary, then our cement tiles are not “perfect” and are not meant to be. They have a certain patina from day one and only become more beautiful with time.
 
-Address: A20, Champaca Garden, Dong Hoa Ward, Di An District, Binh Duong Province, Vietnam  
-Phone: [(+84)8.8888.5665](tel:+84888885665) – [(+84)28.6686.3333](tel:+842866863333)  
-Hotline: [(+84)8.8888.5665](tel:+848.8888.5665)  
-Email: [cans@cementtile.vn](mailto:cans@cementtile.vn)  
-Website: [https://cementtile.vn](https://cementtile.vn)  
-Alibaba: [https://cementtile.trustpass.alibaba.com](https://cementtile.trustpass.alibaba.com)  
-WhatsApp: [+84905547707](https://wa.me/84905547707?text=Hello, I'm visiting your website.)
+**Address**: A20, Champaca Garden, Dong Hoa Ward, Di An District, Binh Duong Province, Vietnam  
+**Phone**: [(+84)8.8888.5665](tel:+84888885665) – [(+84)28.6686.3333](tel:+842866863333)  
+**Hotline**: [(+84)8.8888.5665](tel:+848.8888.5665)  
+**Email**: [cans@cementtile.vn](mailto:cans@cementtile.vn)  
+**Website**: [https://cementtile.vn](https://cementtile.vn)  
+**Alibaba**: [https://cementtile.trustpass.alibaba.com](https://cementtile.trustpass.alibaba.com)  
+**WhatsApp**: [+84905547707](https://wa.me/84905547707?text=Hello, I'm visiting your website.)
