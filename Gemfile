@@ -6,3 +6,9 @@ gemspec
 
 gem 'jekyll-seo-tag'
 gem 'jekyll-admin', group: :jekyll_plugins
+group :jekyll_plugins do
+  gem "jekyll-gist"
+  gem "jekyll-coffeescript"
+  gem "jekyll-assets"
+  gem "another-jekyll-plugin"
+end
