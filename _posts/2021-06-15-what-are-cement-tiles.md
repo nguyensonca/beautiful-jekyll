@@ -11,7 +11,7 @@ comments: true
 ---
 
 
-#What are cement tiles? How to make cement tile in CTS factory?
+# What are cement tiles? How to make cement tile in CTS factory?
 Cement tiles are made using a process developed in Southern France in the second half of the 19th century. Today, however, Morocco, Vietnam, Cuba, Turkey…are the major production center. Cement tiles are made by hand with the help of metallic molds and a hydraulic press. The raw materials are Portland cement, sand, marble powder, water and color pigments. Contrary to ceramic tiles, cement tiles are not exposed to firing but gain their strength from curing. The pigment layer is about 3-4 mm which gives the tiles a long lifespan.
 
 Each cement tile is individually made and variations in thickness, size and color as well as imperfections like irregular edges and corners as well as pattern contours being partly blurred are inherent to the manufacturing process. These characteristics add to the tiles’ natural appeal and do not compromise performance.
