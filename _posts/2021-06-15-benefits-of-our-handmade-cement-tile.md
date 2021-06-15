@@ -4,9 +4,7 @@ title: Top benefits of our handmade cement tile.
 subtitle: Top benefits of our handmade cement tile
 keywords: cement tile
 gh-repo: nguyensonca/gachbongcts
-gh-badge: [gạch bông, fork, follow]
-tags: [biểu đồ miền, bieu do]
-category: Địa lý
+tags: [cement_tiles, cement_tile]
 comments: true
 ---
 
