@@ -22,10 +22,10 @@ comments: true
 
 ### In summary, then our cement tiles are not “perfect” and are not meant to be. They have a certain patina from day one and only become more beautiful with time.
 
-<p>Address: A20, Champaca Garden, Dong Hoa Ward, Di An District, Binh Duong Province, Vietnam<br>
-Phone: <a href="tel:+84888885665">(+84)8.8888.5665</a> – <a href="tel:+842866863333">(+84)28.6686.3333</a><br>
-Hotline: <a href="tel:+848.8888.5665">(+84)8.8888.5665</a><br>
-Email: <a href="mailto:cans@cementtile.vn">cans@cementtile.vn</a><br>
-Website: <a href="https://cementtile.vn">https://cementtile.vn</a><br>
-Alibaba: <a href="https://cementtile.trustpass.alibaba.com">https://cementtile.trustpass.alibaba.com</a><br>
-WhatsApp: <a href="https://wa.me/84905547707?text=Hello, I'm visiting your website.">+84905547707</a></p>
+Address: A20, Champaca Garden, Dong Hoa Ward, Di An District, Binh Duong Province, Vietnam  
+Phone: [(+84)8.8888.5665](tel:+84888885665) – [(+84)28.6686.3333](tel:+842866863333)  
+Hotline: [(+84)8.8888.5665](tel:+848.8888.5665)  
+Email: [cans@cementtile.vn](mailto:cans@cementtile.vn)  
+Website: [https://cementtile.vn](https://cementtile.vn)  
+Alibaba: [https://cementtile.trustpass.alibaba.com](https://cementtile.trustpass.alibaba.com)  
+WhatsApp: [+84905547707](https://wa.me/84905547707?text=Hello, I'm visiting your website.)
