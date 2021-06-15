@@ -21,3 +21,11 @@ comments: true
 - The tiles have to be sealed in order to protect them from dirt and water. There are multiple methods for sealing and treating the tiles depending on the particular circumstances and what look you desire – for further information see our separate section on installation/maintenance. Please note that depending on which method has used the treatment in itself may affect the appearance of the surface of the tile. For example, different types of soap and wax do not only permeate the pores of the tile but also create a layer on top of the surface that may be visible in a certain type of light – it may look a little blotched.
 
 ### In summary, then our cement tiles are not “perfect” and are not meant to be. They have a certain patina from day one and only become more beautiful with time.
+
+<p>Address: A20, Champaca Garden, Dong Hoa Ward, Di An District, Binh Duong Province, Vietnam<br>
+Phone: <a href="tel:+84888885665">(+84)8.8888.5665</a> – <a href="tel:+842866863333">(+84)28.6686.3333</a><br>
+Hotline: <a href="tel:+848.8888.5665">(+84)8.8888.5665</a><br>
+Email: <a href="mailto:cans@cementtile.vn">cans@cementtile.vn</a><br>
+Website: <a href="https://cementtile.vn">https://cementtile.vn</a><br>
+Alibaba: <a href="https://cementtile.trustpass.alibaba.com">https://cementtile.trustpass.alibaba.com</a><br>
+WhatsApp: <a href="https://wa.me/84905547707?text=Hello, I'm visiting your website.">+84905547707</a></p>
