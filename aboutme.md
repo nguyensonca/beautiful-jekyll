@@ -15,14 +15,14 @@ Until 2012, we attempted to recover our traditional handicraft in making cement 
 Our CTS cement tiles have been appreciated by customers for both their quality and designs. Our output of cement tiles could not be sufficient in meeting the demand of customers inside and outside Quang Ngai province. In 2014, we made a strategic decision building up our second factory of cement tile at “The Cradle of Vietnamese Pottery and Porcelain” in Binh Duong province. Our second factory has operated and manufactures a wide range of cement tiles to satisfy demand of local markets and for export markets. Also, we have opened our head office in Ho Chi Minh city for customer service in a convenient manner.
 
 
-Contact Information
-VIETNAM CEMENT TILE CORP
-Showroom: A20 – Champaca Garden – Dong Hoa Ward – Di An City – Binh Duong Province – Vietnam
-Factory 1: 84B/12 Binh Thung 2 – Binh An Ward – Di An City – Binh Duong Province – Vietnam
-Factory 2: 14G Highway – Khuong My Ward – Hoa Vang Dist – Da Nang City – Vietnam
-Phone: (+84)286686.3333 – Hotline: (+84)8.8888.5665
-Email: cts@cementtile.vn
-Website: https://cementtile.vn
+Contact Information <br>
+VIETNAM CEMENT TILE CORP<br>
+Showroom: A20 – Champaca Garden – Dong Hoa Ward – Di An City – Binh Duong Province – Vietnam<br>
+Factory 1: 84B/12 Binh Thung 2 – Binh An Ward – Di An City – Binh Duong Province – Vietnam<br>
+Factory 2: 14G Highway – Khuong My Ward – Hoa Vang Dist – Da Nang City – Vietnam<br>
+Phone: (+84)286686.3333 – Hotline: (+84)8.8888.5665<br>
+Email: cts@cementtile.vn<br>
+Website: https://cementtile.vn<br>
 
 ### My story
 
