@@ -14,11 +14,13 @@ url: https://medrol80.com
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Giới Thiệu: "aboutme"
-  Sản Phẩm:
+  About: "aboutme"
+  Products:
     - Gạch Bông CTS: "https://cementtile.vn/vi"
     - Bông Gió CTS: "https://bonggio.com/"
-  Liên Hệ: "2021-06-11-lien-he"
+	- Bông Gió CTS: "#"
+  Contact: "2021-06-11-lien-he"
+  Hotline: "tel:+84905547707"
 
 # --- Logo --- #
 
